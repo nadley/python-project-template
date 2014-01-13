@@ -56,7 +56,7 @@ Instructions
         rm -rf .git
         git init
 
-#. Change the license in ``setup.py`` and replace the generated ``LICENSE`` file with the one of your choice. If you would like to use the MIT license, no change is necessary.
+#. Change the license in ``setup.py`` and replace the generated ``LICENSE`` file with the one of your choice. If you would like to use the GPLv3 license, no change is necessary.
 
 #. Change the ``classifiers`` keyword in ``setup.py``. This *will* require modification.
 
